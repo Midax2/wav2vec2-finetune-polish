@@ -6,8 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+#processed files
+wav2vec2-pl/
+tokenizer/
+*.onnx
+*.json
+tf_model/
+*.tflite
+
 # Distribution / packaging
 .Python
+*.idea/
 build/
 develop-eggs/
 dist/
