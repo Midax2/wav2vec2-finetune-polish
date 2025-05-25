@@ -1,0 +1,9 @@
+torch>=2.0.0
+tensorflow>=2.15.0
+transformers>=4.39.0
+datasets>=2.17.0
+huggingface_hub>=0.20.0
+protobuf<4
+soundfile
+numpy
+scipy
